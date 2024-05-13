@@ -24,3 +24,6 @@ def find_coordinates(query):
 		} 
 
 		return location_details 
+
+
+#>

@@ -139,3 +139,4 @@ for x in range(cols):
 		cv2.destroyAllWindows() 
 
 tot_land_area_acres, number_of_trees = afforestation_area() 
+#just ignore this comment
