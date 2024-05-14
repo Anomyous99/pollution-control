@@ -18,10 +18,10 @@ To get started with this project, follow these steps:
 4. Contribute to the project by implementing new features or fixing issues.
 5. Submit pull requests for review and collaboration.
 
-Contributing:
+Contributing:(Current not accepted)
 Contributions to this project are welcome! If you have ideas for improving pollution control methods or implementing new features, feel free to contribute. Please refer to the CONTRIBUTING.md file for guidelines on contributing to this project.
 
-License:
+License:(would be done in future updates)
 This project is licensed under the MIT License. See the LICENSE.txt file for details.
 
 Contact:
